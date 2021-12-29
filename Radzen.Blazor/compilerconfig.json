@@ -1,0 +1,13 @@
+﻿[
+  {
+    "inputFile": "themes/scala-base.scss",
+    "outputFile": "wwwroot/css/scala-base.css",
+    "minify": {
+      "enabled": true
+    },
+    "sourceMap": true,
+    "options": {
+      "relativeUrls": false
+    }
+  }
+]
